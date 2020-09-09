@@ -16,14 +16,13 @@
 ### Problem 1
 
 ```
-// Given a two-digit integer, return the sum of its digits.
+Given a two-digit integer, return the sum of its digits.
 
-const addDigits = (n) => {
+Input: 29
+Output: 11
 
-}
-
-console.log(addDigits(29)) // 11
-console.log(addDigits(30)) // 3 
+Input: 30
+Output: 3
 ```
 
 ### Problem 2
