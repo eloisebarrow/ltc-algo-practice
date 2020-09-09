@@ -1,4 +1,4 @@
-// TUESDAY, SEPTEMBER 8, 2020
+// PROBLEM 1
 
 // Given a two-digit integer, return the sum of its digits.
 const addDigits = (n) => {
@@ -7,3 +7,13 @@ const addDigits = (n) => {
 
 console.log(addDigits(29)) // 11
 console.log(addDigits(30)) // 3 
+
+// PROBLEM 2
+
+// Write a function called oddsEvens that given a string, prints its even-indexed and odd-indexed characters as space-separated strings on a single line.
+
+const oddsEvens = (s) => {
+
+}
+
+console.log('Hacker') // Hce akr
