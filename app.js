@@ -1,4 +1,4 @@
-// DAY 1
+// PROBLEM 1
 
 // Given a two-digit integer, return the sum of its digits.
 const addDigits = (n) => {
