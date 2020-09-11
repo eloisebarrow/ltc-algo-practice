@@ -25,7 +25,7 @@ const isAnagram = () => {
 }
 
 console.log(isAnagram("cinema", "iceman")) // true
-console.log(isAnagram("randum" "werdz")) // false
+console.log(isAnagram("randum", "werdz")) // false
 
 // PROBLEM 4
 
