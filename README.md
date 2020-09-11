@@ -41,3 +41,13 @@ Output: Hce akr
 Write a function called isAnagram that, given 2 strings, returns true if the strings are anagrams
 isAnagram("cinema", "iceman") == True
 isAnagram("randum" "werdz") == False
+```
+
+### Problem 4
+
+```
+Given an array of strings, return another array containing all of its longest strings.
+
+Input: ["aba", "aa", "ad", "vcd", "aba"]
+Output: ["aba", "vcd", "aba"]
+```

@@ -17,3 +17,20 @@ const oddsEvens = (s) => {
 }
 
 console.log('Hacker') // Hce akr
+
+// PROBLEM 3
+
+const isAnagram = () => {
+
+}
+
+console.log(isAnagram("cinema", "iceman")) // true
+console.log(isAnagram("randum" "werdz")) // false
+
+// PROBLEM 4
+
+const longestStrings = () => {
+
+}
+
+console.log(longestStrings(["aba", "aa", "ad", "vcd", "aba"])) // ["aba", "vcd", "aba"]
