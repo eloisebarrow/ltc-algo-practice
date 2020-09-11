@@ -32,4 +32,12 @@ Write a function called oddsEvens that given a string, prints its even-indexed a
 
 Input: Hacker
 Output: Hce akr
+
 ```
+
+### Problem 3
+
+```
+Write a function called isAnagram that, given 2 strings, returns true if the strings are anagrams
+isAnagram("cinema", "iceman") == True
+isAnagram("randum" "werdz") == False
