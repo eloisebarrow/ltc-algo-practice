@@ -51,3 +51,12 @@ Given an array of strings, return another array containing all of its longest st
 Input: ["aba", "aa", "ad", "vcd", "aba"]
 Output: ["aba", "vcd", "aba"]
 ```
+
+### Problem 5
+
+```
+Write a function called largestNumber that will return the largest value from an array.
+
+Input: [1,2,5,10]
+Output: 10
+```
