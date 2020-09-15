@@ -60,3 +60,17 @@ Write a function called largestNumber that will return the largest value from an
 Input: [1,2,5,10]
 Output: 10
 ```
+
+### Problem 6
+
+```
+Write a function called printArr that will print the items of an array.
+
+Input: ['sally','monique','caleb']
+Output: 
+
+sally
+monique
+caleb
+
+```
