@@ -74,3 +74,16 @@ monique
 caleb
 
 ```
+
+### Problem 7
+
+```
+Write a function called isPalindrome that, given a string, returns true
+if the string is a palindrome, and false if not
+
+Input: isPalindrome("tacocat")
+Output: True
+
+Input: isPalindrome("nottacocat")
+Output: False
+```
