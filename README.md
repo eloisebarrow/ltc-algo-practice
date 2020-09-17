@@ -87,3 +87,24 @@ Output: True
 Input: isPalindrome("nottacocat")
 Output: False
 ```
+
+### Problem 8
+
+```
+Write a function called likes which takes in an array, containing the names of people who like an item. It must return the display text as shown in the examples and is dependent on the number of elements in the array.
+
+Input: likes([])
+Output: "no one likes this"
+
+Input: likes(["Peter"])
+Output: "Peter likes this"
+
+Input: likes(["Jacob", "Alex"])
+Output: "Jacob and Alex like this"
+
+Input: likes(["Max", "John", "Mark"])
+Output: "Max, John and Mark like this"
+
+Input: likes(["Alex", "Jacob", "Mark", "Max"])
+Output: "Alex, Jacob and 2 others like this"
+```
