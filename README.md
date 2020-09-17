@@ -86,6 +86,13 @@ Output: True
 
 Input: isPalindrome("nottacocat")
 Output: False
+
+Additional levels of difficulty:
+Input: isPalindrome("Race car")
+Output: True
+
+Input: isPalindrome("a man, a plan, a canal - panama")
+Output: True
 ```
 
 ### Problem 8
