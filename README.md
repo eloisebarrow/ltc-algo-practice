@@ -124,3 +124,17 @@ Create a function called findMissingNums that takes in two arrays. Iterate over 
 Input: [0,1,2,3,4,5,6,7,8,9], [2,3,7,9]
 Output: [ 2, 3, 7, 9, 0, 1, 4, 5, 6, 8 ]
 ```
+
+### Problem 10
+
+```
+Write a function called phoneBook that given two parameters, the first being an array of hashes containing n number of names and phone numbers and the second being an array of friends names will then will assemble a phone book that maps the 'friends' array of names to their respective phone numbers if they are found in the first array. Each found entry will print the associated entry from your phone book on a new line in the form name=phoneNumber; if an entry is not found, print Not found instead.
+
+Input 1: [{sam:99912222},{tom:11122222},{harry:12299933}]
+Input 2: ['sam','ed','harry']
+
+Output:
+sam=99912222
+NOT FOUND
+harry:12299933
+```
