@@ -138,3 +138,12 @@ sam=99912222
 NOT FOUND
 harry:12299933
 ```
+
+### Problem 11
+
+```
+Write a function called twoSum that given an array of integers and a target number, returns two array integers that add up to the target.
+
+Input: [3, 2, 5, 7, 11, 15], 9
+Output: Return [2, 7]
+```
