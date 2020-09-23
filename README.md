@@ -147,3 +147,12 @@ Write a function called twoSum that given an array of integers and a target numb
 Input: [3, 2, 5, 7, 11, 15], 9
 Output: Return [2, 7]
 ```
+
+### Problem 12
+
+```
+Write a function called hasVowels that takes in an array of words and returns a new array of only those words that contain one or more vowels.
+
+Input: hasVowels(['jon', 'ada', 'ppzpp', 'brgggg', 'eric'])
+Output: ['jon', 'ada', 'eric']
+```
