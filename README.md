@@ -156,3 +156,16 @@ Write a function called hasVowels that takes in an array of words and returns a 
 Input: hasVowels(['jon', 'ada', 'ppzpp', 'brgggg', 'eric'])
 Output: ['jon', 'ada', 'eric']
 ```
+
+### Problem 13
+
+```
+Write a function called isPrime, that takes in a positive integer and returns
+True if number is Prime, otherwise false
+
+Input: isPrime(10)
+Output: False
+
+Input: isPrime(13)
+Output: True
+```
