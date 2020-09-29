@@ -179,3 +179,19 @@ Write a function called uniqueVals that will return an array of unique values, n
 Input: uniqueVals(5,10)
 Possible Output: [1,7,3,9,2]
 ```
+
+### Problem 15
+
+```
+Write a function called greatestCommomFactor that, given two distinct positive integers,
+returns the greatest common factorof those two values
+
+Input: greatestCommonFactor(9,12)
+Output: 3
+
+Input: greatestCommonFactor(6,18)
+Output: 6
+
+Input: greatestCommonFactor(7,11)
+Output: 1
+```
