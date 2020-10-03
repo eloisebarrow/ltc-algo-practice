@@ -199,11 +199,11 @@ Output: 1
 ### Problem 16
 
 ```
-Write a function called stringCompress that, given a string, returns a
+Write a function called stringCompress that, given a string of only letters, returns a
 string that represents a numerically compressed format of the string.
 
-Input: stringCompress("abbcccdddde")
-Output: "a2b3c4de"
+Input: stringCompress("abbcccddddec")
+Output: "a2b3c4dec"
 
 Input: stringCompress("abcd")
 Output: "abcd"
