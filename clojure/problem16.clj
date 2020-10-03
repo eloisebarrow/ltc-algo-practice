@@ -6,6 +6,7 @@
 ;;
 ;; Input: stringCompress("abcd")
 ;; Output: "abcd"
+;; 09/30/2020
 
 (defn stringCompress [x]
   (let [p (partition-by identity x)
@@ -13,5 +14,5 @@
         s (apply str m)
         f (clojure.string/replace s "1" "")]
     f))
-(println (stringCompress "abbcccdddde"))
+(println (stringCompress "abbcccddddegggggggggwwwwwwwwwwwwwqqqqqqqqqqqqq"))
 (println (stringCompress "abcde"))
