@@ -209,3 +209,18 @@ Input: stringCompress("abcd")
 Output: "abcd"
 ```
 
+### Problem 17
+
+```
+Given a list (or array) of integers, return a new list such that each element at index i of the new list 
+is the product of all the numbers in the original list except the one at i.
+
+Input: [1, 2, 3, 4, 5]
+Output: [120, 60, 40, 30, 24]
+
+Input: [3, 2, 1]
+Output: [2, 3, 6]
+
+Added difficulty:
+Answer cannot include division.
+```
