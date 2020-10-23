@@ -20,6 +20,7 @@ def productAllButI(listInput):
 
 	result = []
 
+	#use numpy prod() method to multiply all the numbers in a list https://www.geeksforgeeks.org/python-multiply-numbers-list-3-different-ways/
 	import numpy as np
 
 	for i in range(len(listInput)):
