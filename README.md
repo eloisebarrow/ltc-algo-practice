@@ -239,3 +239,12 @@ Output: 10
 
 Follow-up: Can you do this in O(N) time and constant space?
 ```
+
+### Problem 19
+
+```
+Given a list of integers, return a list of even integers, squared. 
+
+Input: [8,1,9,10]
+Output: [64,100]
+```
