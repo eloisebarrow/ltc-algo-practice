@@ -252,8 +252,14 @@ Output: [64,100]
 ### Problem 20
 
 ```
-Given a mapping of digits to letters (as in a phone number), and a digit string, return all possible letters the number could represent. You can assume each valid number in the mapping is a single digit.
+Given a mapping of digits to letters (as in a phone number), 
+and a digit string, return all possible letters the number 
+could represent. You can assume each valid number in the mapping is a single digit.
 
 
-For example if {2: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], 4: ["g", "h", "i"], 5: ["j", "k", "l"], 6: ["m", "n", "o"]} then “23” should return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
+For example if: 
+{2: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], 4: ["g", "h", "i"], 
+5: ["j", "k", "l"], 6: ["m", "n", "o"]} 
+then “23” should return 
+[“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
 ```
