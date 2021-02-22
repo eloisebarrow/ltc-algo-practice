@@ -12,6 +12,7 @@
 - [javascript-algorithms repo](https://github.com/trekhleb/javascript-algorithms#data-structures)
 - [codewars.com](https://www.codewars.com/)
 - [hackerrank.com](https://www.hackerrank.com/)
+- [UseJournal.com - Coding Freak: 500 data structures and algorithms](https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222)
 
 ### Problem 1
 
@@ -184,7 +185,7 @@ Possible Output: [1,7,3,9,2]
 
 ```
 Write a function called greatestCommomFactor that, given two distinct positive integers,
-returns the greatest common factorof those two values
+returns the greatest common factor of those two values
 
 Input: greatestCommonFactor(9,12)
 Output: 3
@@ -262,4 +263,24 @@ For example if:
 5: ["j", "k", "l"], 6: ["m", "n", "o"]} 
 then “23” should return 
 [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
+```
+
+### Problem 21 (Arrays)
+```
+Find pair with given sum in the array:
+
+Given an unsorted integer array, find a pair with a given sum in it.
+
+Input:
+ 
+arr = [8, 7, 2, 5, 3, 1]
+sum = 10
+ 
+Output:
+ 
+Pair found at index 0 and 2 (8 + 2)
+ 
+or
+ 
+Pair found at index 1 and 4 (7 + 3)
 ```
