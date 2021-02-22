@@ -265,7 +265,7 @@ then “23” should return
 [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
 ```
 
-### Problem 21 (Arrays)
+### Problem 21 (Arrays) https://www.techiedelight.com/find-pair-with-given-sum-array/
 ```
 Find pair with given sum in the array:
 
